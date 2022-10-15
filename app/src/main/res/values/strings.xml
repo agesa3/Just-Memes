@@ -18,6 +18,6 @@
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
     <string name="snackbar_error">Error loading memes</string>
     <string name="retry">Retry</string>
-    <string name="view_stories_as_list">View Stories as List</string>
-    <string name="view_stories">View Stories</string>
+    <string name="view_stories_as_list">View Memes (GridView)</string>
+    <string name="view_stories">View Memes (StoryView)</string>
 </resources>
