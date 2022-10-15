@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441815320954",
+    "project_id": "funnymemes-c9972",
+    "storage_bucket": "funnymemes-c9972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441815320954:android:7adac04519f7bc0c892ec3",
+        "android_client_info": {
+          "package_name": "com.agesadev.funnymemes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441815320954-3mof1dsln4s55grr8k7j9vqm5lg064hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL9z4VtzBxSyFjAMi-PQK5KWTOp-WUegc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441815320954-3mof1dsln4s55grr8k7j9vqm5lg064hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
